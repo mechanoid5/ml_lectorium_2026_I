@@ -1,5 +1,4 @@
 Введение в Feature Engineering для начинающих дата-сайентистов и ML-инженеров
-
 https://habr.com/ru/companies/skillfactory/articles/842444/
 
 Сбор данных - Собирают информацию из различных источников и объединяют в единый набор для обучения
@@ -96,14 +95,7 @@ EDA помогает связать логику всего процесса и 
 - - - - - - - - - - - - 
 
 
-Python for Data Science
-Python is widely used in data science and has a robust suite of powerful tools to communicate with data. In this course, you will learn about
-different Python libraries used for data manipulation and visualization such as numpy, pandas, matplotlib and more.
-
-Introduction
-1.1 Why Python
-2.1 Statistics
-3.1 More Statistics
+Statistics
 
 Math Operations with NumPy
 6.1 What is NumPy
