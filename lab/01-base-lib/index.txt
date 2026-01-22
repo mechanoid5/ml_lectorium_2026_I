@@ -1,0 +1,10 @@
+установка python
+создание venv
+развёртывание jupyter
+
+библиотека numpy
+библиотека matplotlib / seaborn
+библиотека pandas
+
+
+
